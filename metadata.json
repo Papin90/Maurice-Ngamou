@@ -1,0 +1,6 @@
+{
+  "name": "AgriFly Cameroun",
+  "description": "Plateforme AgriTech de référence pour les services agricoles par drone au Cameroun : pulvérisation, fertilisation, cartographie et gestion d'interventions.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
